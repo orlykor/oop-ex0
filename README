@@ -1,0 +1,40 @@
+orlykor12
+203595541
+orly koren
+
+
+=============================
+=      File description     =
+=============================
+ProductType.java -  The ProductType class implements a type of product that can
+be carried by stores
+Customer.java - The Customer class implements costumers that come to buy in the
+shop 
+Store.java - The Store class implements on what kind of products the store 
+sells
+
+
+
+
+=============================
+=          Design           =
+=============================
+
+i designed the program according to the given API of each class. 
+the designed was in order to reflect a real live store and costumers which 
+purchase products from the store. 
+
+
+=============================
+=  Implementation details   =
+=============================
+
+according to the API. in addition the implement of each class is connect to the
+othe one. 
+
+
+=============================
+=    Answers to questions   =
+=============================
+
+None was given.
